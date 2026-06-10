@@ -44,7 +44,7 @@ The platform aims to improve communication between patients, donors, and healthc
 
 ## Future Improvements
 
-* SMS and email notifications
+* SMS and email notification
 * Emergency priority requests
 * Location-based donor matching
 * Hospital integration
